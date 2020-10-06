@@ -1,0 +1,15 @@
+.container_img{
+    width: 100vw!important;
+    height: 100vh!important;
+}
+.btn{
+    position: absolute;
+    top: 80%;
+    left: 50%;   
+    transform: translate(-50%, -50% );
+    -ms-transform: translate(-50%, -50%  ); 
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
